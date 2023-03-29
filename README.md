@@ -1,5 +1,7 @@
 # Training-data
 How Much Training Data Do You Need?
+
+
 There isn’t a hard-and-fast-rule but tasks like training a model to analyze the sentiment of brand mentions will require far less data than something that needs an incredibly confident model, like self-driving cars.
 
 With text analysis, it all depends on the use case and the number of tags you need. As a general rule of thumb for training MonkeyLearn models:
